@@ -183,3 +183,30 @@ justify-content: flex-end;
     border-bottom-left-radius: 93%
     transition: .3s ease-in-out;
   }
+
+  /* Contact Form */
+
+.contact-form {
+  margin: 6em 0;
+  position: relative;
+}
+
+.contact-form h1 {
+  padding: 2em 1px;
+  color: #F97300;
+}
+
+.contact-form .right {
+  max-width: 600px;
+}
+
+.contact-form .right .btn-secondary {
+  background: #F97300;
+  color: #fff;
+  border: 0;
+}
+
+.contact-form .right .form-control::placeholder {
+  color: #888;
+  font-size: 16px;
+}
