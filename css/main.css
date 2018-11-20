@@ -1,5 +1,13 @@
 /* This is the main.css page for the Bootstrap 4 landing page */
 
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+html,
+h1, h2, h3, h4, h5, h6,
+a {
+  font-family: "Raleway"
+}
+
 /* Navbar for small breakpoints*/
 .navbar {
   background: #F97300;
