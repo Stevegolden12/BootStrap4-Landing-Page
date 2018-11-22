@@ -180,17 +180,17 @@ justify-content: flex-end;
   margin: 2em;
 }
 
-  .team .item {
-    position: relative;
-  }
+.team .item {
+  position: relative;
+}
 
-  .team .des {
-    background: #F07300;
-    color: #fff;
-    text-align: center;
-    border-bottom-left-radius: 93%
-    transition: .3s ease-in-out;
-  }
+.team .des {
+  background: #F07300;
+  color: #fff;
+  text-align: center;
+  border-bottom-left-radius: 93%
+  transition: .3s ease-in-out;
+}
 
   /* Contact Form */
 
@@ -214,7 +214,7 @@ justify-content: flex-end;
   border: 0;
 }
 
-.contact-form .right .form-control::placeholder {
+.contact-form .right .form-control:placeholder {
   color: #888;
   font-size: 16px;
 }
