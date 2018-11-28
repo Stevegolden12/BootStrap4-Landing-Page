@@ -22,3 +22,10 @@ body {
     padding-top: 150px; }
   #home-section .card-form {
     opacity: 0.8; }
+
+.fa {
+  color: #008ed6;
+  background: #fff;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }
